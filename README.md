@@ -1,2 +1,2 @@
 # Docker-Express-App
-A simple Node.js Express app for which a Docker image is created
+A simple Docker project which runs a Node.js Express server, and exposes an API route
